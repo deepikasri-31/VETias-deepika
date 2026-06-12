@@ -26,6 +26,29 @@ console.log(a<b);
 console.log(a>=b);
 console.log(a<=b);
 
+//logical operators
+console.log(a>0 && b>0); 
+console.log(a>0 && b<0); 
+console.log(a<0||b<0);
+console.log(!(a>0));
+
+//unary operators
+console.log(c++);
+console.log(c--);
+console.log(--c);
+console.log(++c);
+
+
+
+ 
+
+
+
+
+
+
+
+
 
 
 
