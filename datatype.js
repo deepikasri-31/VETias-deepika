@@ -20,9 +20,38 @@ var emotyvalue = null;
 console.log(emptyvalue);
 
 //undefine
-console.log("Dt undefine");
-var undefine = undefine;
-console.log(undefined);
+console.log("Dt undefined");
+var undefined;
+console.log(undefined);  
+
+//symbols 
+console.log("Dt symbols");
+var symbolvalue = Symbol('symbole');
+console.log(symbolvalue);  
+
+
+console.log(Wellcome to non-primitive datatype);
+//ojects
+console.log("Dt object");
+var person = {
+    name:"deepika"
+    age:"18"
+};
+console.log(person.age);
+
+//Arrays
+console.log("Dt arrays");
+var numbers = c;symbolvalue["Phone,battery,watch,Mouse,moniter"];
+console.log(Number.lenght);
+console.log(numbers[4]);
+
+
+
+
+
+
+
+
 
 
 
