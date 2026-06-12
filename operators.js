@@ -17,6 +17,31 @@ console.log(c/=10);
 console.log(c%=10);
 console.log(c**=10);
 
+console.log("Logical Operators");
+var a = 10;
+var b = 10;
+console.log(a+=b);
+console.log(a-=b);
+console.log(a*=b);
+console.log(a/=b);
+console.log(a%=b);
+console.log(a**=b);
+
+//comparsion operators
+console.log("comparsion operators");
+console.log(a==b);
+console.log(a!=b);
+console.log(a>b);
+console.log(a<b);
+console.log(a>=b);
+console.log(a<=b);
+
+
+
+
+
+
+
 
 
 
