@@ -8,5 +8,14 @@ console.log(pi);
 let age=18
 console.log(`my name is ${name} my age is${age}`);
 
+//object 
+const student = {
+    name:"deepz",
+    clg:"VETias"
+};
+console.log(student);
+
+
+
 
 
