@@ -15,6 +15,34 @@ const student = {
 };
 console.log(student);
 
+//arrow function
+let add =(a,b) => a+b;
+console.log(add(21,7));
+
+//array 
+let fruit = ["fig","kiwi","apple",]
+console.log(fruit);
+
+//spreed operator
+const updatedfruit=[
+    ...fruit    
+];
+console.log("updatedstudent");
+
+//rest operator
+function maximumMarks(...marks){
+    let max =Math.max(...marks);
+    return max;
+}
+console.log("maximum marks:", maximumMarks(80,70,60));
+
+
+
+
+
+
+
+
 
 
 
