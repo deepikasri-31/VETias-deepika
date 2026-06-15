@@ -26,7 +26,7 @@ console.log(undefined);
 
 //symbols 
 console.log("Dt symbols");
-var symbolvalue = Symbol('symbole');
+var symbolvalue = Symbol('symbols');
 console.log(symbolvalue);  
 
 
