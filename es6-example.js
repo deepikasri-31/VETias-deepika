@@ -39,7 +39,7 @@ console.log("maximum marks:", maximumMarks(80,70,60));
 //destructing
 const person={
     room : "217"
-    people : 2
+    people : "2"
 
 }
 console.log{room,people}=person
